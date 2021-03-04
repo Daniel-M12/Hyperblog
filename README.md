@@ -1,4 +1,4 @@
-#Hyperblog :tw-2665:
+#Hyperblog <3
 
 Un blog increíble para el curso de Git y GitHub de Platzi.
 
@@ -8,9 +8,8 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 >Niñita.
 
 ------------
-[========]
 
-####  Este curso es *¡lo máximo!*. Vemos de todo:
+####  Este curso es *¡lo máximo!* Vemos de todo:
 - Git
 - GitHub
 - Editor.md :editormd-logo:
